@@ -3,7 +3,7 @@
   * [Link](https://github.com/Lzino/SchoolProject/tree/master/MultiChatProgram_lwd)
 * Monopoly Game (JAVA. Team Project)
   * Role : Leader
-  * [Link](https://github.com/Lzino/SchoolProject/tree/master/)
+  * [Link](https://github.com/Lzino/SchoolProject/tree/master/MonopolyGame_lwd)
 
 
 
